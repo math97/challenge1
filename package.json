@@ -1,0 +1,17 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "description": "first challenge of bootcampo",
+  "main": "index.js",
+  "author": "matheus alves albuquerque",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
